@@ -1,3 +1,5 @@
+![It is olympics symbols!](images/german.jpg "The symbol")
+
 # The Olympics Data Visualization
 
 Creating visualization graphs by using python with the dataset provided of olympic games. Sort the data given and using main subjects to plot the graph residing a story.
