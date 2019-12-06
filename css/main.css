@@ -1,0 +1,46 @@
+@charset "UTF-8"
+
+.hidden {
+	display:none;
+}
+#Pie { 
+	
+}
+p {
+	text-align: center;
+	padding-bottom: 50px;
+}
+h1{
+	text-align: center;
+	font-size: 30px;
+	font-family: Arial; 
+	font-weight: bolder;	
+	padding-bottom: 50px;
+}
+h2 {
+	text-align: center;
+	font-size: 30px;
+}
+#Pie img{margin-left: 550px; }
+
+#Pie2 {
+
+}
+#Pie2 img{margin-left: 550px;}
+
+#Pie3 {
+
+}
+#Pie3 img{margin-left: 550px;}
+
+#Pie4 img{margin-left: 550px;}
+
+#Bar {
+
+}
+
+#Bar1 img{margin-left: 550px;}
+
+#Bar2 img{margin-left: 550px;}
+
+

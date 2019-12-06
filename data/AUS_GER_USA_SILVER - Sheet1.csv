@@ -1,0 +1,449 @@
+Year,City,Sport,Athlete,Country,Gender,Event,Medal
+2010,Vancouver,Skiing,"BEGG-SMITH, Dale",AUS,Men,Moguls,Silver
+2014,Sochi,Skiing,"MORRIS, David",AUS,Men,Aerials,Silver
+2014,Sochi,Skiing,"BRIGHT, Torah",AUS,Women,Half-Pipe,Silver
+1936,Garmisch Partenkirchen,Skating,"BAIER, Ernst",GER,Men,Individual,Silver
+1936,Garmisch Partenkirchen,Skiing,"LANTSCHNER, Gustav",GER,Men,Alpine Combined,Silver
+1992,Albertville,Biathlon,"GROSS, Ricco",GER,Men,10KM,Silver
+1992,Albertville,Biathlon,"KIRCHNER, Mark",GER,Men,20KM,Silver
+1994,Lillehammer,Biathlon,"GROSS, Ricco",GER,Men,10KM,Silver
+1994,Lillehammer,Biathlon,"LUCK, Frank",GER,Men,20KM,Silver
+1992,Albertville,Bobsleigh,"HANNEMANN, Rene",GER,Men,Four-Man,Silver
+1992,Albertville,Bobsleigh,"HOPPE, Wolfgang",GER,Men,Four-Man,Silver
+1992,Albertville,Bobsleigh,"KeeHN, Axel",GER,Men,Four-Man,Silver
+1992,Albertville,Bobsleigh,"MUSIOL, Bogdan",GER,Men,Four-Man,Silver
+1992,Albertville,Bobsleigh,"LOCHNER, Rudolf",GER,Men,Two-Man,Silver
+1992,Albertville,Bobsleigh,"ZIMMERMANN, Markus",GER,Men,Two-Man,Silver
+1992,Albertville,Luge,"MANKEL, Yves",GER,Men,Doubles,Silver
+1992,Albertville,Luge,"RUDOLPH, Thomas",GER,Men,Doubles,Silver
+2002,Salt Lake City,Biathlon,"FISCHER, Sven",GER,Men,10KM,Silver
+2002,Salt Lake City,Biathlon,"LUCK, Frank",GER,Men,20KM,Silver
+2002,Salt Lake City,Biathlon,"FISCHER, Sven",GER,Men,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,"GROSS, Ricco",GER,Men,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,"LUCK, Frank",GER,Men,4X7.5KM Relay,Silver
+1998,Nagano,Skiing,"HANNAWALD, Sven",GER,Men,K120 Team (90M),Silver
+1998,Nagano,Skiing,"JAEKLE, Hansjoerg",GER,Men,K120 Team (90M),Silver
+1998,Nagano,Skiing,"SCHMITT, Martin",GER,Men,K120 Team (90M),Silver
+1998,Nagano,Skiing,"THOMA, Dieter",GER,Men,K120 Team (90M),Silver
+2002,Salt Lake City,Biathlon,"SENDEL, Peter",GER,Men,4X7.5KM Relay,Silver
+2014,Sochi,Biathlon,"LESSER, Erik",GER,Men,20KM,Silver
+2014,Sochi,Biathlon,"BOEHM, Daniel",GER,Men,4X7.5KM Relay,Silver
+2002,Salt Lake City,Luge,"HACKL, Georg",GER,Men,Singles,Silver
+2006,Turin,Luge,"FLORSCHUETZ, Andre",GER,Men,Doubles,Silver
+2002,Salt Lake City,Skiing,"SCHLICKENRIEDER, Peter",GER,Men,Sprint 1.5KM,Silver
+2002,Salt Lake City,Skiing,"ACKERMANN, Ronny",GER,Men,Sprint,Silver
+2002,Salt Lake City,Skiing,"ACKERMANN, Ronny",GER,Men,Team,Silver
+2002,Salt Lake City,Skiing,"HETTICH, Georg",GER,Men,Team,Silver
+2002,Salt Lake City,Skiing,"HOEHLIG, Marcel",GER,Men,Team,Silver
+2002,Salt Lake City,Skiing,"KIRCHEISEN, Bjoern",GER,Men,Team,Silver
+2014,Sochi,Biathlon,"LESSER, Erik",GER,Men,4X7.5KM Relay,Silver
+2014,Sochi,Biathlon,"PEIFFER, Arnd",GER,Men,4X7.5KM Relay,Silver
+2014,Sochi,Biathlon,"SCHEMPP, Simon",GER,Men,4X7.5KM Relay,Silver
+2006,Turin,Luge,"WUSTLICH, Torsten",GER,Men,Doubles,Silver
+2010,Vancouver,Luge,"MOELLER, David",GER,Men,Singles,Silver
+2002,Salt Lake City,Skiing,"HANNAWALD, Sven",GER,Men,K90 Individual (70M),Silver
+2006,Turin,Skiing,"ANGERER, Tobias",GER,Men,4X10KM Relay,Silver
+2006,Turin,Skiing,"FILBRICH, Jens",GER,Men,4X10KM Relay,Silver
+2006,Turin,Skiing,"SCHLUETTER, Andreas",GER,Men,4X10KM Relay,Silver
+2006,Turin,Skiing,"SOMMERFELDT, Rene",GER,Men,4X10KM Relay,Silver
+2006,Turin,Skiing,"ACKERMANN, Ronny",GER,Men,Team,Silver
+2006,Turin,Skiing,"GAISER, Jens",GER,Men,Team,Silver
+2006,Turin,Skiing,"HETTICH, Georg",GER,Men,Team,Silver
+2006,Turin,Skiing,"KIRCHEISEN, Bjoern",GER,Men,Team,Silver
+2010,Vancouver,Skiing,"TEICHMANN, Axel",GER,Men,50KM,Silver
+2010,Vancouver,Skiing,"ANGERER, Tobias",GER,Men,Combined 15 + 15KM Mass Start,Silver
+2010,Vancouver,Skiing,"TEICHMANN, Axel",GER,Men,Team Sprint,Silver
+2010,Vancouver,Skiing,"TSCHARNKE, Tim",GER,Men,Team Sprint,Silver
+2010,Vancouver,Skiing,"NEUMAYER, Michael",GER,Men,K120 Team (90M),Silver
+2010,Vancouver,Skiing,"SCHMITT, Martin",GER,Men,K120 Team (90M),Silver
+2010,Vancouver,Bobsleigh,"KUSKE, Kevin",GER,Men,Four-Man,Silver
+2010,Vancouver,Bobsleigh,"LANGE, Andre",GER,Men,Four-Man,Silver
+2010,Vancouver,Bobsleigh,"PUTZE, Martin",GER,Men,Four-Man,Silver
+2010,Vancouver,Bobsleigh,"ROEDIGER, Alexander",GER,Men,Four-Man,Silver
+2010,Vancouver,Skiing,"UHRMANN, Michael",GER,Men,K120 Team (90M),Silver
+2010,Vancouver,Skiing,"WANK, Andreas",GER,Men,K120 Team (90M),Silver
+2014,Sochi,Skiing,"FRENZEL, Eric",GER,Men,"Team, 4X5 KM",Silver
+2014,Sochi,Skiing,"KIRCHEISEN, Bjoern",GER,Men,"Team, 4X5 KM",Silver
+2014,Sochi,Skiing,"RIESSLE, Fabian",GER,Men,"Team, 4X5 KM",Silver
+2014,Sochi,Skiing,"RYDZEK, Johannes",GER,Men,"Team, 4X5 KM",Silver
+2010,Vancouver,Bobsleigh,"ADJEI, Richard",GER,Men,Two-Man,Silver
+2010,Vancouver,Bobsleigh,"FLORSCHUETZ, Thomas",GER,Men,Two-Man,Silver
+1992,Albertville,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,1500M,Silver
+1992,Albertville,Skating,"WARNICKE, Heike",GER,Women,3000M,Silver
+1992,Albertville,Skating,"WARNICKE, Heike",GER,Women,5000M,Silver
+1994,Lillehammer,Skating,"BAIER-LOEF, Anke",GER,Women,1000M,Silver
+1994,Lillehammer,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,5000M,Silver
+1998,Nagano,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,1500M,Silver
+1992,Albertville,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,"HARVEY, Antje",GER,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,"SCHAAF, Petra",GER,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,"HARVEY, Antje",GER,Women,7.5KM,Silver
+1994,Lillehammer,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"GREINER-PETTER-MEMM, Simone",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"HARVEY, Antje",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"SCHAAF, Petra",GER,Women,4X7.5KM Relay,Silver
+1998,Nagano,Skating,"PECHSTEIN, Claudia",GER,Women,3000M,Silver
+1998,Nagano,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,5000M,Silver
+2002,Salt Lake City,Skating,"VOELKER, Sabine",GER,Women,1000M,Silver
+2002,Salt Lake City,Skating,"VOELKER, Sabine",GER,Women,1500M,Silver
+1998,Nagano,Biathlon,"DISL, Uschi",GER,Women,7.5KM,Silver
+2002,Salt Lake City,Biathlon,"WILHELM, Kati",GER,Women,10KM Pursuit,Silver
+2002,Salt Lake City,Biathlon,"DISL, Uschi",GER,Women,7.5KM,Silver
+2006,Turin,Biathlon,"GLAGOW, Martina",GER,Women,10KM Pursuit,Silver
+2006,Turin,Biathlon,"WILHELM, Kati",GER,Women,12.5KM Mass Start,Silver
+2002,Salt Lake City,Skating,"GARBRECHT-ENFELDT, Monique",GER,Women,500M,Silver
+2006,Turin,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Silver
+1936,Garmisch Partenkirchen,Skiing,"GRASEGGER, Ke_the",GER,Women,Alpine Combined,Silver
+1994,Lillehammer,Skiing,"ERTL, Martina",GER,Women,Giant Slalom,Silver
+2006,Turin,Biathlon,"GLAGOW, Martina",GER,Women,15KM,Silver
+2006,Turin,Biathlon,"APEL, Katrin",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"GLAGOW, Martina",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"HENKEL, Andrea",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"WILHELM, Kati",GER,Women,4X6KM Relay,Silver
+2002,Salt Lake City,Bobsleigh,"HOLZNER, Ulrike",GER,Women,Two-Man,Silver
+2002,Salt Lake City,Bobsleigh,"KIRIASIS, Sandra",GER,Women,Two-Man,Silver
+2010,Vancouver,Bobsleigh,"SZYMKOWIAK, Kerstin",GER,Women,Individual,Silver
+1994,Lillehammer,Luge,"ERDMANN, Susi-Lisa",GER,Women,Singles,Silver
+1998,Nagano,Luge,"NIEDERNHUBER, Barbara",GER,Women,Singles,Silver
+2010,Vancouver,Skating,"BECKERT, Stephanie",GER,Women,3000M,Silver
+2010,Vancouver,Skating,"BECKERT, Stephanie",GER,Women,5000M,Silver
+2010,Vancouver,Skating,"WOLF, Jenny",GER,Women,500M,Silver
+1998,Nagano,Skiing,"ERTL, Martina",GER,Women,Alpine Combined,Silver
+1998,Nagano,Skiing,"MITTERMAYER, Tatjana",GER,Women,Moguls,Silver
+1998,Nagano,Skiing,"RENOTH, Heidi Maria",GER,Women,Giant-Slalom,Silver
+2002,Salt Lake City,Skiing,"SACHENBACHER, Evi",GER,Women,Sprint 1.5KM,Silver
+2006,Turin,Skiing,"BAUER, Viola",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"BOEHLER, Stefanie",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"KUENZEL, Claudia",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"SACHENBACHER STEHLE, Evi",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"KUENZEL, Claudia",GER,Women,Sprint 1.5KM,Silver
+2010,Vancouver,Biathlon,"NEUNER, Magdalena",GER,Women,7.5KM,Silver
+2002,Salt Lake City,Luge,"NIEDERNHUBER, Barbara",GER,Women,Singles,Silver
+2006,Turin,Luge,"KRAUSHAAR, Silke",GER,Women,Singles,Silver
+2014,Sochi,Luge,"HUEFNER, Tatjana",GER,Women,Singles,Silver
+2006,Turin,Skiing,"KOBER, Amelie",GER,Women,Giant Parallel Slalom,Silver
+2010,Vancouver,Skiing,"GOSSNER, Miriam",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"NYSTAD, Claudia",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"SACHENBACHER-STEHLE, Evi",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"ZELLER, Katrin",GER,Women,4X5KM Relay,Silver
+2014,Sochi,Skiing,"HOEFL-RIESCH, Maria",GER,Women,Super-G,Silver
+2014,Sochi,Skiing,"KARSTENS, Anke",GER,Women,Parallel Slalom,Silver
+1924,Chamonix,Ice Hockey,"ABEL, Clarence John",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"DRURY, Herbert L.",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"GERAN, N.",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"LACROIX, Alphonse",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"LANGLEY, John Arthur",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"LYONS, John Sharkey",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"MAC CARTHY, Justin",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"RICE, Willard",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"SMALL, Irving Wheeler",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Ice Hockey,"SYNNOTT, Francis Allen",USA,Men,Ice Hockey,Silver
+1924,Chamonix,Skating,"LOUGHRAN, Beatrix",USA,Women,Individual,Silver
+1928,St.Moritz,Bobsleigh,"DOE, Thomas",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"GRANGER, David",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"HEATON, Jennison",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"HINE, Lyman",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"O'BRIEN, Jay James",USA,Men,Five-Man,Silver
+1928,St.Moritz,Bobsleigh,"HEATON, John",USA,Men,Individual,Silver
+1932,Lake Placid,Bobsleigh,"ASHFORTH, Albert",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"BRYANT, Precy D.",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"GOODRICH, Hunter",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"HACKNEY, Clement",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"HOMBURGER, Henry A.",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"HORTON, Edmund C",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"LIPSON, Howard S",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"MARTIN, Harry G",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"STEVENS, Curtis",USA,Men,Four-Man,Silver
+1932,Lake Placid,Bobsleigh,"STEVENS, Francis Paul",USA,Men,Four-Man,Silver
+1932,Lake Placid,Ice Hockey,"ANDERSON, Osborn",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"BENT, John Peale",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"CHASE, John Pierce",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"COOKMAN, John Emery",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"EVERETT, Douglas Newton",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"FARRELL, Franklin",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"FITZGERALD, Joseph",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"FRAZIER, Edward Hartwell",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"GARRISON, John Bright",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"HALLOCK, Gerard",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"LIVINGSTON, Robert Cambridge",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"NELSON, Francis Augustus",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"PALMER, Winthrop Hale",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Ice Hockey,"SMITH, Gordon",USA,Men,Ice Hockey,Silver
+1932,Lake Placid,Skating,"BADGER, Sherwin",USA,Men,Pairs,Silver
+1932,Lake Placid,Skating,"LOUGHRAN, Beatrix",USA,Women,Pairs,Silver
+1932,Lake Placid,Skating,"MURPHY, Edward",USA,Men,5000M,Silver
+1948,St.Moritz,Bobsleigh,"HEATON, John",USA,Men,Individual,Silver
+1948,St.Moritz,Skating,"BARTHELOMEW, Kenneth",USA,Men,500M,Silver
+1948,St.Moritz,Skating,"FITZGERALD, Robert",USA,Men,500M,Silver
+1948,St.Moritz,Skiing,"FRASER, Gretchen",USA,Women,Alpine Combined,Silver
+1952,Oslo,Bobsleigh,"ATKINSON, James Neil",USA,Men,Four-Man,Silver
+1952,Oslo,Bobsleigh,"BENHAM, Stanley Delong",USA,Men,Four-Man,Silver
+1952,Oslo,Bobsleigh,"CROSSETT, Howard Wallace",USA,Men,Four-Man,Silver
+1952,Oslo,Bobsleigh,"MARTIN, Patrick Henry",USA,Men,Four-Man,Silver
+1952,Oslo,Bobsleigh,"BENHAM, Stanley Delong",USA,Men,Two-Man,Silver
+1952,Oslo,Bobsleigh,"MARTIN, Patrick Henry",USA,Men,Two-Man,Silver
+1952,Oslo,Ice Hockey,"BJORKMAN, Ruben Eugene",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"CEGLARSKI, Leonard Stanley",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"CZARNOTA, Joseph John",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"DESMOND, Richard Joseph",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"GAMBUCCI, Andre Peter",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"HARRISON, Clifford",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"KILMARTIN, Gerald Walsh",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"MULHERN, John Francis",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"NOAH, John Michael",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"OSS, Arnold Carl",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"ROMPRE, Robert Edward",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"SEDIN, James Walter",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"VAN ALLEN, Alfred",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"WHISTON, Donald Francis",USA,Men,Ice Hockey,Silver
+1952,Oslo,Ice Hockey,"YACKEL, Kenneth James",USA,Men,Ice Hockey,Silver
+1952,Oslo,Skating,"ALBRIGHT, Tenley",USA,Women,Individual,Silver
+1952,Oslo,Skating,"KENNEDY, Karol",USA,Women,Pairs,Silver
+1952,Oslo,Skating,"KENNEDY, Michael",USA,Men,Pairs,Silver
+1952,Oslo,Skating,"MCDERMOTT, Donald",USA,Men,500M,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"ANDERSON, Wendell Richard",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"BURTNETT, Wellington Parker",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"CAMPBELL, Eugene Edward",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"CHRISTIAN, Gordon Eugene",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"CLEARY, William John",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"DOUGHERTY, Richard Leo",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"IKOLA, Willard John",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"MATCHEFTS, John Peter",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"MAYASICH, John Edward",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"MCKINNON, Daniel Duncan",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"MEREDITH, Richard Otis",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"OLSON, Weldon Howard",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"PETTROSKE, John Edward",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"PURPUR, Kenneth Richard",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"RIGAZIO, Donald Edmund",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"RODENHEISER, Richard Peter",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Ice Hockey,"SAMPSON, Edward Horace",USA,Men,Ice Hockey,Silver
+1956,Cortina d'Ampezzo,Skating,"ROBERTSON, Ronald",USA,Men,Individual,Silver
+1956,Cortina d'Ampezzo,Skating,"HEISS, Carol",USA,Women,Individual,Silver
+1960,Squaw Valley,Skating,"DISNEY, William",USA,Men,500M,Silver
+1960,Squaw Valley,Skiing,"PITOU, Penelope",USA,Women,Downhill,Silver
+1960,Squaw Valley,Skiing,"PITOU, Penelope",USA,Women,Giant Slalom,Silver
+1960,Squaw Valley,Skiing,"SNITE, Betsy",USA,Women,Slalom,Silver
+1964,Innsbruck,Skiing,"SAUBERT, Jean",USA,Women,Giant Slalom,Silver
+1964,Innsbruck,Skiing,"KIDD, William",USA,Men,Slalom,Silver
+1968,Grenoble,Skating,"WOOD, Timothy",USA,Men,Individual,Silver
+1968,Grenoble,Skating,"MCDERMOTT, Richard",USA,Men,500M,Silver
+1968,Grenoble,Skating,"FISH, Jennifer",USA,Women,500M,Silver
+1968,Grenoble,Skating,"HOLUM, Dianne",USA,Women,500M,Silver
+1968,Grenoble,Skating,"MEYERS, Mary",USA,Women,500M,Silver
+1972,Sapporo,Ice Hockey,"AHEARN, Kevin Joseph",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"BOUCHA, Henry",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"BROWN, Charles Erwin",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"CHRISTIANSEN, Keith",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"CURRAN, Michael",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"FTOREK, Robbie",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"HOWE, Mark",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"HYMANSON, Jeffrey",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"IRVING, Stuart",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"MCELMURY, James",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"MCGLYNN, Richard",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"MELLOR, Thomas",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"NeSLUND, Ronald",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"OLDS, Walter",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"SANDERS, Franklynn",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"SARNER, Craig",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"SEARS, Peter",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Ice Hockey,"SHEEHY, Timothy",USA,Men,Ice Hockey,Silver
+1972,Sapporo,Skating,"HOLUM, Dianne",USA,Women,3000M,Silver
+1976,Innsbruck,Skating,"MUELLER, Leah",USA,Women,1000M,Silver
+1976,Innsbruck,Skating,"YOUNG, Sheila",USA,Women,1500M,Silver
+1976,Innsbruck,Skiing,"KOCH, William",USA,Men,30KM Mass Start,Silver
+1980,Lake Placid,Skating,"FRATIANNE, Linda",USA,Women,Individual,Silver
+1980,Lake Placid,Skating,"MUELLER, Leah",USA,Women,1000M,Silver
+1980,Lake Placid,Skating,"MUELLER, Leah",USA,Women,500M,Silver
+1980,Lake Placid,Skiing,"MAHRE, Phillip",USA,Men,Slalom,Silver
+1984,Sarajevo,Skating,"SUMNERS, Rosalyn",USA,Women,Individual,Silver
+1984,Sarajevo,Skating,"CARRUTHERS, Kitty",USA,Women,Pairs,Silver
+1984,Sarajevo,Skating,"CARRUTHERS, Peter",USA,Men,Pairs,Silver
+1984,Sarajevo,Skiing,"COOPER, Christin",USA,Women,Giant Slalom,Silver
+1984,Sarajevo,Skiing,"MAHRE, Steven",USA,Men,Slalom,Silver
+1988,Calgary,Skating,"FLAIM, Eric",USA,Men,1500M,Silver
+1992,Albertville,Skating,"WYLIE, Paul",USA,Men,Individual,Silver
+1992,Albertville,Skating,"DOHNAL, Darcie",USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,"PETERSON, Amy",USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,"TURNER, Cathy",USA,Women,3000M Relay,Silver
+1992,Albertville,Skating,"ZIEGELMEYER, Nikki",USA,Women,3000M Relay,Silver
+1992,Albertville,Skiing,"LINDH, Hilary",USA,Women,Downhill,Silver
+1992,Albertville,Skiing,"ROFFE, Diann",USA,Women,Giant Slalom,Silver
+1994,Lillehammer,Skating,"KERRIGAN, Nancy",USA,Women,Individual,Silver
+1994,Lillehammer,Skating,"BARTZ, Randall",USA,Men,5000M Relay,Silver
+1994,Lillehammer,Skating,"COYLE, John",USA,Men,5000M Relay,Silver
+1994,Lillehammer,Skating,"FLAIM, Eric",USA,Men,5000M Relay,Silver
+1994,Lillehammer,Skating,"GABEL, Andrew",USA,Men,5000M Relay,Silver
+1994,Lillehammer,Skating,"GOSKOWICZ, Anthony",USA,Men,5000M Relay,Silver
+1994,Lillehammer,Skiing,"STREET, Picabo",USA,Women,Downhill,Silver
+1994,Lillehammer,Skiing,"MOE, Thomas",USA,Men,Super-G,Silver
+1994,Lillehammer,Skiing,"MCINTYRE, Elizabeth",USA,Women,Moguls,Silver
+1998,Nagano,Luge,"SHEER, Gordon",USA,Men,Doubles,Silver
+1998,Nagano,Luge,"THORPE, Chris",USA,Men,Doubles,Silver
+1998,Nagano,Skating,"KWAN, Michelle",USA,Women,Individual,Silver
+1998,Nagano,Skating,"WITTY, Christine",USA,Women,1000M,Silver
+2002,Salt Lake City,Bobsleigh,"HAYS, Todd",USA,Men,Four-Man,Silver
+2002,Salt Lake City,Bobsleigh,"HINES, Garrett",USA,Men,Four-Man,Silver
+2002,Salt Lake City,Bobsleigh,"JONES, Randy",USA,Men,Four-Man,Silver
+2002,Salt Lake City,Bobsleigh,"SCHUFFENHAUER, Bill",USA,Men,Four-Man,Silver
+2002,Salt Lake City,Bobsleigh,"PARSLEY, Lea Ann",USA,Women,Individual,Silver
+2002,Salt Lake City,Ice Hockey,"AMONTE, Tony",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"BARRASSO, Tom",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"CHELIOS, Chris",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"DEADMARSH, Adam",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"DRURY, Chris",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"DUNHAM, Mike",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"GUERIN, Bill",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"HOUSLEY, Phil",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"HULL, Brett",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"LECLAIR, John",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"LEETCH, Brian",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"MILLER, Aaron",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"MODANO, Mike",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"POTI, Tom",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"RAFALSKI, Brian",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"RICHTER, Mike",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"ROENICK, Jeremy",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"ROLSTON, Brian",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"SUTER, Gary",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"TKACHUK, Keith",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"WEIGHT, Doug",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"YORK, Mike",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"YOUNG, Scott",USA,Men,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"BAILEY, Chris",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"BAKER, Laurie",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"BYE, Karyn",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"CHU, Julie",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"DARWITZ, Natalie",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"DECOSTA, Sara",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"DUNN-LUOMA, Tricia",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"GRANATO, Cammi",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"KENNEDY, Courtney",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"KILBOURNE, Andrea",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"KING, Katie",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"LOONEY, Shelley",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"MERZ, Sue",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"MLECZKO, Allison",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"MOUNSEY, Tara",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"POTTER, Jenny",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"RUGGIERO, Angela",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"TUETING, Sarah",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"WALL, Lyndsay",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Ice Hockey,"WENDELL, Krissy",USA,Women,Ice Hockey,Silver
+2002,Salt Lake City,Luge,"GRIMMETTE, Mark",USA,Men,Doubles,Silver
+2002,Salt Lake City,Luge,"MARTIN, Brian",USA,Men,Doubles,Silver
+2002,Salt Lake City,Skating,"OHNO, Apolo Anton",USA,Men,1000M,Silver
+2002,Salt Lake City,Skating,"PARRA, Derek",USA,Men,5000M,Silver
+2002,Salt Lake City,Skiing,"MILLER, Bode",USA,Men,Alpine Combined,Silver
+2002,Salt Lake City,Skiing,"MILLER, Bode",USA,Men,Giant Slalom,Silver
+2002,Salt Lake City,Skiing,"PACK, Joe",USA,Men,Aerials,Silver
+2002,Salt Lake City,Skiing,"MAYER, Travis",USA,Men,Moguls,Silver
+2002,Salt Lake City,Skiing,"BAHRKE, Shannon",USA,Women,Moguls,Silver
+2002,Salt Lake City,Skiing,"KASS, Danny",USA,Men,Half-Pipe,Silver
+2006,Turin,Bobsleigh,"FLEMING, Valerie",USA,Women,Two-Man,Silver
+2006,Turin,Bobsleigh,"ROHBOCK, Shauna",USA,Women,Two-Man,Silver
+2006,Turin,Skating,"AGOSTO, Benjamin",USA,Men,Ice Dancing,Silver
+2006,Turin,Skating,"BELBIN, Tanith",USA,Women,Ice Dancing,Silver
+2006,Turin,Skating,"COHEN, Sasha",USA,Women,Individual,Silver
+2006,Turin,Skating,"HEDRICK, Chad",USA,Men,10000M,Silver
+2006,Turin,Skating,"CHEEK, Joey",USA,Men,1000M,Silver
+2006,Turin,Skating,"DAVIS, Shani",USA,Men,1500M,Silver
+2006,Turin,Skiing,"KASS, Danny",USA,Men,Half-Pipe,Silver
+2006,Turin,Skiing,"BLEILER, Gretchen",USA,Women,Half-Pipe,Silver
+2006,Turin,Skiing,"JACOBELLIS, Lindsey",USA,Women,Snowboard Cross,Silver
+2010,Vancouver,Ice Hockey,"BACKES, David",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"BROWN, Dustin",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"CALLAHAN, Ryan",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"DRURY, Chris",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"GLEASON, Tim",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"JOHNSON, Erik",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"JOHNSON, Jack",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"KANE, Patrick",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"KESLER, Ryan",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"KESSEL, Phil",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"LANGENBRUNNER, Jamie",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"MALONE, Ryan",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"MILLER, Ryan",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"ORPIK, Brooks",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"PARISE, Zach",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"PAVELSKI, Joe",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"QUICK, Jonathan",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"RAFALSKI, Brian",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"RYAN, Bobby",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"STASTNY, Paul",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"SUTER, Ryan",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"THOMAS, Tim",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"WHITNEY, Ryan",USA,Men,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"BELLAMY, Kacey",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"CAHOW, Caitlin",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"CHESSON, Lisa",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"CHU, Julie",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"DARWITZ, Natalie",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"DUGGAN, Meghan",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"ENGSTROM, Molly",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"KNIGHT, Hilary",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"LAMOUREUX, Jocelyne",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"LAMOUREUX, Monique",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"LAWLER, Erika",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"MARVIN, Gigi",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"McLAUGHLIN, Brianne",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"POTTER, Jenny",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"RUGGIERO, Angela",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"SCHAUS, Molly",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"STACK, Kelli",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"THATCHER, Karen",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"VETTER, Jessie",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"WEILAND, Kerry",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Ice Hockey,"ZAUGG-SIERGIEJ, Jinelle",USA,Women,Ice Hockey,Silver
+2010,Vancouver,Skating,"DAVIS, Meryl",USA,Women,Ice Dancing,Silver
+2010,Vancouver,Skating,"WHITE, Charlie",USA,Men,Ice Dancing,Silver
+2010,Vancouver,Skating,"REUTTER, Katherine",USA,Women,1000M,Silver
+2010,Vancouver,Skating,"OHNO, Apolo Anton",USA,Men,1500M,Silver
+2010,Vancouver,Skating,"DAVIS, Shani",USA,Men,1500M,Silver
+2010,Vancouver,Skating,"HANSEN, Brian",USA,Men,Team Pursuit,Silver
+2010,Vancouver,Skating,"HEDRICK, Chad",USA,Men,Team Pursuit,Silver
+2010,Vancouver,Skating,"KUCK, Jonathan",USA,Men,Team Pursuit,Silver
+2010,Vancouver,Skating,"MARSICANO, Trevor",USA,Men,Team Pursuit,Silver
+2010,Vancouver,Skiing,"MANCUSO, Julia",USA,Women,Downhill,Silver
+2010,Vancouver,Skiing,"MANCUSO, Julia",USA,Women,Super Combined,Silver
+2010,Vancouver,Skiing,"MILLER, Bode",USA,Men,Super-G,Silver
+2010,Vancouver,Skiing,"PETERSON, Jeret",USA,Men,Aerials,Silver
+2010,Vancouver,Skiing,"SPILLANE, Johnny",USA,Men,"Individual, Ski Jumping K90 (70M)",Silver
+2010,Vancouver,Skiing,"SPILLANE, Johnny",USA,Men,Sprint K120,Silver
+2010,Vancouver,Skiing,"CAMEROTA, Brett",USA,Men,"Team, 4X5 KM",Silver
+2010,Vancouver,Skiing,"DEMONG, Bill",USA,Men,"Team, 4X5 KM",Silver
+2010,Vancouver,Skiing,"LODWICK, Todd",USA,Men,"Team, 4X5 KM",Silver
+2010,Vancouver,Skiing,"SPILLANE, Johnny",USA,Men,"Team, 4X5 KM",Silver
+2010,Vancouver,Skiing,"TETER, Hannah",USA,Women,Half-Pipe,Silver
+2014,Sochi,Bobsleigh,"MEYERS, Elana",USA,Women,Two-Woman,Silver
+2014,Sochi,Bobsleigh,"WILLIAMS, Lauryn",USA,Women,Two-Woman,Silver
+2014,Sochi,Bobsleigh,"PIKUS-PACE, Noelle",USA,Women,Individual,Silver
+2014,Sochi,Ice Hockey,"BELLAMY, Kacey",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"BOZEK, Megan",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"CARPENTER, Alex",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"CHU, Julie",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"COYNE, Kendall",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"DECKER, Brianna",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"DUGGAN, Meghan",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"FRY, Lyndsey",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"KESSEL, Amanda",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"KNIGHT, Hilary",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"LAMOUREUX, Jocelyne",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"LAMOUREUX, Monique",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"MARVIN, Gigi",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"MCLAUGHLIN, Brianne",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"PICARD, Michelle",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"PUCCI, Josephine",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"SCHAUS, Molly",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"SCHLEPER, Anne",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"STACK, Kelli",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"STECKLEIN, Lee",USA,Women,Ice Hockey,Silver
+2014,Sochi,Ice Hockey,"VETTER, Jessie",USA,Women,Ice Hockey,Silver
+2014,Sochi,Skating,"ALVAREZ, Eduardo",USA,Men,5000M Relay,Silver
+2014,Sochi,Skating,"CELSKI, J.R.",USA,Men,5000M Relay,Silver
+2014,Sochi,Skating,"CREVELING, Chris",USA,Men,5000M Relay,Silver
+2014,Sochi,Skating,"MALONE, Jordan",USA,Men,5000M Relay,Silver
+2014,Sochi,Skiing,"WEIBRECHT, Andrew",USA,Men,Super-G,Silver
+2014,Sochi,Skiing,"KENWORTHY, Gus",USA,Men,Ski Slopestyle,Silver
+2014,Sochi,Skiing,"LOGAN, Devin",USA,Women,Ski Slopestyle,Silver
